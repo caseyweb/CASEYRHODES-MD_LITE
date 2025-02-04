@@ -6,14 +6,12 @@
 <div align="center">
 
 | [![CASEYRHODES TECH](https://github.com/caseyweb.png?lenght=50width=50)](https://github.com/caseyweb)|
-|----|
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=500&height=60&lines=AND+WELCOME+TO+THIS+REPO!)](https://git.io/typing-svg)
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=FORK+AND+MAYBE+GIVE+US+A+STAR🌟)](https://git.io/typing-svg)
-
----
+   
 
 > [CAUTION]
 >
@@ -34,7 +32,6 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 ## DEVELOPED BY 𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 🌟
 
----
 
 ## CREATE YOUR FORK
 
@@ -46,24 +43,22 @@ Our AI features use random APIs to run, so sometimes they may be down.
 </div>
 
 
----
 ### 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 1
 <p align="center">
 <a href="https://caseyrhodes-f66bf49f6849.herokuapp.com/"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-blue?style=for-the-badge&logo=render"></a>
-<p/>
+
 
  
 
 ### 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 2
 <p align="center">
 <a href="https://caseyrhodes-f66bf49f6849.herokuapp.com/"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-darkblue?style=for-the-badge&logo=render"></a>
-<p/>  
+ 
 
 
 ### 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 3
 <p align="center">
 <a href="https://caseyrhodes-f66bf49f6849.herokuapp.com/"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-darkblue?style=for-the-badge&logo=render"></a>
-<p/>  
 
 
 
@@ -123,7 +118,6 @@ Thanks to...
 
 
 
----
 
 ***Tap the WhatsApp logo below to join our channel and group for updates***
 
